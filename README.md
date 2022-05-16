@@ -1,13 +1,16 @@
-# Blockit-A-Way Web App
+# Blockit-A-Way Admin panel
 
 ### Tools we used
 
 -  React js for frontend
--  Tailwind for design
+-  JWT Authentication
 -  React Icons
 -  Hero icons
 -  React Router dom
--  Firebase for authentication
+-  bycrpt for hashing password
 -  Node js for backend
 -  Mongo as Database
 
+
+# Blocit-A-Way App (andriod)
+-React Native for frontend
